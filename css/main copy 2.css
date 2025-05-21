@@ -1,0 +1,88 @@
+/*--------------------------------------------------------------
+# Hero Section
+--------------------------------------------------------------*/
+body{
+  background-color: #060606;
+}
+
+#container{
+  background-color: #d47f00;
+  border-radius: 20%;
+}
+
+main:hover{
+  background-color: #000000;
+  transition: all 3s;
+}
+
+body:hover{
+  background-color: #e99700;
+  transition: all 3s;
+}
+  
+.container{
+  background-color: #060606;
+}
+ 
+.container h1{  
+font-family: Brush Script MT, Brush Script Std, cursive;
+margin: 0;
+font-size: 2rem;
+}
+
+.container:hover {
+    background-color: #a37802;
+    transition: all 1s;
+  }
+  
+.container{ 
+  background-color: #060606;
+  border-radius: 10%;
+  
+  }
+  
+  .img{
+    position: relative;
+    padding: 2rem;
+    border-radius: 20%;
+    padding-right:black solid 30%,
+  }
+
+.img:hover{
+zoom: 120%;
+background-color: #815902;
+}
+
+p{
+  position: relative;
+  bottom: 10%;
+  font-family: Brush Script MT, Brush Script Std, cursive;
+}
+
+.d-flex{
+  float: right;
+  width:33.3%;
+  color: #fff;
+  align-items: last baseline;
+  font-size: larger;
+  margin: 0;
+  position:static;
+}
+
+#text-center{
+  position: absolute;
+  position: relative;
+  bottom: -300px;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-family: Brush Script MT, Brush Script Std, cursive;
+}
+
+.text-light{
+  font-family: Brush Script MT, Brush Script Std, cursive;
+  position: absolute;
+  position: relative;
+  bottom: -285px;
+  right: -500px;
+}
+  
